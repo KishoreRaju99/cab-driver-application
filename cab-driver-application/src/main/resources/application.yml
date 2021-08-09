@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+
+jwt:
+  secret: secretkey123
+  
+#spring:#  data:#    mongodb:#      host: 92.168.102.29
+#      port: 27017
+#      database: cabApplicationV1
